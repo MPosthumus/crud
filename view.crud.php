@@ -1,5 +1,5 @@
 <?php
-
+//joe
 //Mysqli Connectie
 $mysqli = new mysqli($host, $user, $pass, $db);
 //Het gebruiken van de Create-Read-Update-Delete(CRUD) class
